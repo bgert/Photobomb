@@ -1,1 +1,2 @@
+# Use
 My program is ran by giving it a file path to a folder. It will place the finished photo in that same folder. It works if you run it in terminal by dragging the folder into the terminal window to auto grab the folder path. In doing this it does not have a final '/' on the end of the path. Taking this into account there is a part of my program that adds a '/' so make sure the folder path does not end in a '/'. Put the photos in the same folder as main before running.
